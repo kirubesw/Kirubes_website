@@ -15,7 +15,7 @@ role: Masters student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: IISER
-    url: https://www.stanford.edu/
+    url: h
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
